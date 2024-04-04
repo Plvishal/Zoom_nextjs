@@ -1,3 +1,4 @@
+import MeetingTypeList from '@/components/MeetingTypeList';
 import React from 'react';
 
 function Home() {
@@ -23,6 +24,7 @@ function Home() {
           </div>
         </div>
       </div>
+      <MeetingTypeList />
     </section>
   );
 }
