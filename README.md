@@ -67,3 +67,22 @@ export default authMiddleware({});
 export const config = {
 matcher: [ "/((?!.+\\.[\\w]+$|\_next)._)", "/(api|trpc)(._)"]};
 ```
+
+## getstream.io
+
+```
+Stream powers Chat messaging, video and audio activity feeds for billions of global end-users across thousands of different app.
+
+```
+
+## Install stream-io
+
+```
+npm install @stream-io/video-react-sdk
+```
+
+## APIs setup
+
+```
+npm install @stream-io/node-sdk
+```
