@@ -4,4 +4,4 @@ https://zoom-nextjs-phi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fzoom-nextj
 
 ##
 
-"/images/avatar-1.jpeg"
+![alt text](home_page.PNG)
