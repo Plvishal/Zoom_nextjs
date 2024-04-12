@@ -4,7 +4,7 @@ https://zoom-nextjs-phi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fzoom-nextj
 
 ##
 
-![alt text](sign_up_page.PNG)
+[Sign Page](sign_up_page.PNG)
 ![alt text](sign_in_page.PNG)
 ![alt text](home_page.PNG)
 ![alt text](instant_meeting.PNG)
