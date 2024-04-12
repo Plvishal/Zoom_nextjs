@@ -4,16 +4,16 @@ https://zoom-nextjs-phi.vercel.app/sign-in?redirect_url=https%3A%2F%2Fzoom-nextj
 
 ##
 
-[Sign Page](sign_up_page.PNG)
-![alt text](sign_in_page.PNG)
-![alt text](home_page.PNG)
-![alt text](instant_meeting.PNG)
-![alt text](join_meeting_via_link.PNG)
-![alt text](schedule_meeting.PNG)
-![alt text](previous_meeting.PNG)
-![alt text](upcoming_meeting.PNG)
-![alt text](recoarding-meting.PNG)
-![alt text](personal_room.PNG)
+[Sign Up Page](sign_up_page.PNG)
+[Sign In Page](sign_in_page.PNG)
+[Home Page](home_page.PNG)
+[Instant meeting joining Dailog Box](instant_meeting.PNG)
+[Join meeting via link which is provided by admin](join_meeting_via_link.PNG)
+[Schedule Meeting](schedule_meeting.PNG)
+[See here all previous join meeting](previous_meeting.PNG)
+[ See here all Upcoming Meeting](upcoming_meeting.PNG)
+[See here all recoarding](recoarding-meting.PNG)
+[User or admin personal room](personal_room.PNG)
 
 ##Clerk
 Clerk is a complete suite of embeddable UIs, Flexible APIs, and admin dashboards to authenticate and manage your user.
